@@ -10,6 +10,7 @@ Please note that the characters used in this game are based on those from Genshi
 
 Good luck on your quest to find the dodocos and conquer the island! 
 ### BOOM BOOOM! BAKUDAN!!!
+![776e5d9ce9284722edeafd955b265b00](https://github.com/LordGs/bomberKlee/assets/114924525/90fa6077-ec79-4b3a-8227-b36106a65c42)
 
 Feel free to customize it further based on your preferences!
 
